@@ -9,7 +9,7 @@ Built With
 
 👤 **Leo de Andrade**
 
-- GitHub: [@leonardoeng13](https://github.com/githubhandle)
+- GitHub: [@leonardoeng13](https://github.com/leonardoeng13)
 - Twitter: [@Leo de Andrade](https://twitter.com/andrede_leo)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/leonardodeandrade)
 
