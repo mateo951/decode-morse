@@ -16,3 +16,14 @@ def decode_word(morse_word)
     end
     decoded_word
 end
+
+def decode_phase(morse_phrase)
+    decoded_phrase = ""
+    morse_phrase_splited = morse_phrase.split("   ", 0)
+    morse_phrase_splited.each do |i|
+        decoded_phrase += decode_word(i.to_s).to_s + " "
+    end
+    decoded_phrase
+end
+
+puts decode_phase('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
